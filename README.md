@@ -1,4 +1,10 @@
-### Hi there 👋
+## Won's Github
+
+### Profile
++ 이름 : 김희원 (Heewon Kim)
++ 학교 : 한국외국어대학교
++ 전공 : 글로벌스포츠산업학과
++ 이중전공 : 
 
 <!--
 **dorahee-ee/dorahee-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
