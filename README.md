@@ -1,22 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=won's%20github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=won's%20github&fontSize=90)
 
-### Profile
-+ 이름 : 김희원 (Heewon Kim)
-+ 학교 : 한국외국어대학교
-+ 전공 : 글로벌스포츠산업학과
-+ 이중전공 : 컴퓨터전자시스템공학부
+<h3 align="center">$\mathcal{I\ am\ Heewon\ Kim\ who\ is\ studying\ Artificial\ Intelligence}$ 👩‍💻</h3>
+<h3 align="center">$\mathcal{I'm\ growing\ everyday}$ 🌿</h3>
 
-<!--
-**dorahee-ee/dorahee-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br></br>
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://velog.io/@dorahee-ee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dorahee-ee"/></a>&nbsp
+  <a href="mailto:wonnn0801@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wonnn0801@gmail.com"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorahee-ee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+</div>
