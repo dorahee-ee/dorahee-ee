@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=won's%20github&fontSize=90)
 
-<h3 align="center">👩🏻‍💻 $\mathcal{I\ am\ Heewon\ Kim\ who\ is\ studying\ Artificial\ Intelligence}$ 👩🏻‍💻</h3>
-<h3 align="center">🌿 $\mathcal{I'm\ growing\ everyday}$ 🌿</h3>
+<h3 align="center">👩🏻‍💻 I am Heewon Kim who is studying Artificial Intelligence$ 👩🏻‍💻</h3>
+<h3 align="center">🌿 I'm growing everyday 🌿</h3>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
