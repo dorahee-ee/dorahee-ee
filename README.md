@@ -3,7 +3,7 @@
 <h3 align="center">👩🏻‍💻 I am Heewon Kim who is studying Artificial Intelligence 👩🏻‍💻</h3>
 <h3 align="center">🌿 I'm growing everyday 🌿</h3>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">✔️ Follow Me ✔️</h3>
 <p align="center">
   <a href="https://velog.io/@dorahee-ee"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dorahee-ee"/></a>&nbsp
   <a href="mailto:wonnn0801@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wonnn0801@gmail.com"/></a>
